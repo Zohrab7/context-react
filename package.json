@@ -1,0 +1,11 @@
+{
+  "name": "context-react",
+  "version": "1.0.0",
+  "description": "context api",
+  "main": "index.js",
+  "author": "Zohrab Alexanian",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.9.0"
+  }
+}
